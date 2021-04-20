@@ -1,7 +1,4 @@
-Olá, sou Wagner Esser, sou desenvolvedor full-stack na NG Informática, onde trabalho principalmente com as tecnologias React e Node.
-
-**Tecnologias que trabalho no momento:** React, Node, GraphQL, TypeScript, PostgreSQL, Azure, Material UI, VSCode, Figma.
-
+Olá, sou Wagner Esser, sou desenvolvedor Front-end na TD (TradersClub), onde trabalho principalmente com a tecnologia React.
 
 Caso queira entrar em contato, segue meu e-mail e minhas redes sociais:
 
