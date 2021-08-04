@@ -1,4 +1,4 @@
-Olá, sou Wagner Esser, sou desenvolvedor Front-end na TD (TradersClub), onde trabalho principalmente com a tecnologia React.
+Olá, sou Wagner Esser, sou desenvolvedor Front-end na TC (TradersClub), onde trabalho principalmente com React.
 
 Caso queira entrar em contato, segue meu e-mail e minhas redes sociais:
 
