@@ -1,4 +1,4 @@
-Olá, sou Wagner Esser, sou desenvolvedor Front-end na WSys, onde trabalho principalmente com React.
+Olá, sou Wagner Esser, sou desenvolvedor de software, atuo hoje principalmente com React/React Native e Golang.
 
 Caso queira entrar em contato, segue meu e-mail e minhas redes sociais:
 
